@@ -1,4 +1,4 @@
-# Keyword-Extraction-Web-App
+# PDF-Extraction-Web-App
 Live Demo Link : https://keyword-extraction-web-app-by-33svan0v0.streamlit.app/
 
 The "Keyword Extraction Web App" is a web application created using Streamlit, a Python library for building web-based data applications. This particular app is designed to perform keyword extraction from various types of text files, including PDF, DOCX, PPTX, and plain text (TXT) files.
